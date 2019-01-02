@@ -1,0 +1,23 @@
+
+--- Job Delivering.gms Start 12/29/18 16:22:50 25.1.3 r4e34d435fbd WEX-WEI x86 64bit/MS Windows
+GAMS 25.1.3   Copyright (C) 1987-2018 GAMS Development. All rights reserved
+Licensee: Small MUD - 5 User License                     S180622:0451AO-WIN
+          Bogazici University, Department of Industrial Engineering  DC7370
+          License for teaching and research at degree granting institutions
+          License Admin: Necati Aras, arasn@boun.edu.tr                    
+--- Starting compilation
+--- Delivering.gms(5) 2 Mb
+--- . C:\Users\byklyci\Desktop\ie310project\customers.txt(56) 3 Mb
+--- Delivering.gms(16) 3 Mb
+--- . C:\Users\byklyci\Desktop\ie310project\clusterability.txt(3136) 3 Mb
+--- Delivering.gms(21) 3 Mb
+--- . C:\Users\byklyci\Desktop\ie310project\demand-volume.txt(1) 3 Mb 1 Error
+*** Error 361 in C:\Users\byklyci\Desktop\ie310project\demand-volume.txt
+    Values for domain 1 are unknown - no checking possible
+--- . C:\Users\byklyci\Desktop\ie310project\demand-volume.txt(56) 3 Mb
+--- Delivering.gms(25) 3 Mb
+--- . C:\Users\byklyci\Desktop\ie310project\direct-shipment-cost.txt(57) 3 Mb
+--- Delivering.gms(37) 3 Mb 1 Error
+*** Status: Compilation error(s)
+--- Job Delivering.gms Stop 12/29/18 16:22:50 elapsed 0:00:00.074
+Exit code = 2

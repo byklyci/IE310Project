@@ -1,0 +1,37 @@
+Set
+
+   j customers
+/
+$include C:\Users\byklyci\Desktop\ie310project\customers.txt
+/
+   l "number of small trucks" /1 * 1000 /
+   i "number of large trucks" /1 * 1000 /
+   k "type of the truck" /small ,large /
+   v "volume of the demand" // ;
+
+Parameters
+
+  a(j,j) customer which can visited by same truck in direct delivery
+/
+$include C:\Users\byklyci\Desktop\ie310project\clusterability.txt
+/
+
+  d(v) amount of order of customer v in volume
+/
+$include C:\Users\byklyci\Desktop\ie310project\demand-volume.txt
+/
+
+Table c(j,k) cost visiting j with direct delivery with truck type k
+$include C:\Users\byklyci\Desktop\ie310project\direct-shipment-cost.txt
+;
+
+
+
+
+
+
+
+Variables
+X(j)     type of delivery to customer j(1 is direct and 0 is indirect)
+Z        total delivery cost;
+

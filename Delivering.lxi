@@ -1,0 +1,45 @@
+B 2 C o m p i l a t i o n
+B 3523 Include File Summary
+B 3540 Equation Listing    SOLVE delivering Using MIP From line 3510
+D 3541 total_cost
+D 4691 cs1
+D 4720 cs2
+D 4749 cs3
+D 4784 cs4
+D 4819 cs5
+D 4878 cs6
+D 4889 cs7
+D 4900 cs8
+D 4929 cs9
+B 4960 Column Listing      SOLVE delivering Using MIP From line 3510
+E 4961 X
+E 4981 T
+E 5177 S
+E 5373 Max1
+E 5557 Max2
+E 5741 Z
+B 5750 Model Statistics    SOLVE delivering Using MIP From line 3510
+B 5766 Solution Report     SOLVE delivering Using MIP From line 3510
+F 5805 total_cost
+F 5813 cs1
+F 5874 cs2
+F 5935 cs3
+F 5996 cs4
+F 6057 cs5
+F 6118 cs6
+F 9259 cs7
+F 12400 cs8
+F 15541 cs9
+G 18677 X
+G 18738 T
+G 21879 S
+G 25020 Max1
+G 25081 Max2
+G 25142 Z
+B 25155 E x e c u t i o n
+I 25158 Z
+I 25159 X
+I 25166 T
+I 25171 S
+I 25183 Max1
+I 25188 Max2
